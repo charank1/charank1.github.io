@@ -1,0 +1,15 @@
+h1, h2, p {
+    color: brown;
+    font-weight:bold;
+}
+.brown {
+     color: violet
+}
+.box1{
+    height: 400px;
+    width: 250px;
+    border: 5px solid black;
+    margin: 30px;
+    padding: 10px;
+    background-color: darkslategray
+}
